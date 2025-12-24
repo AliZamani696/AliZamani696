@@ -12,7 +12,7 @@
 
 | حوزه | تکنولوژی‌ها |
 | :--- | :--- |
-| **زبان‌های برنامه‌نویسی** | [cite_start]Python, JavaScript, TypeScript [cite: 21, 23, 34] |
+| **زبان‌های برنامه‌نویسی** |t]Python, JavaScript, TypeScript ] |
 | **فریم‌ورک‌های وب** | [cite_start]Django, Django REST Framework, Node.js (Express.js) [cite: 22, 24] |
 | **پایگاه داده** | [cite_start]MongoDB, SQLite [cite: 38, 42] |
 | **ابزارها و DevOps** | [cite_start]Docker, Git, Linux, Network+ [cite: 16, 25, 26, 41] |
