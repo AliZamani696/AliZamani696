@@ -12,11 +12,11 @@
 
 | حوزه | تکنولوژی‌ها |
 | :--- | :--- |
-| **زبان‌های برنامه‌نویسی** |t]Python, JavaScript, TypeScript ] |
-| **فریم‌ورک‌های وب** | [cite_start]Django, Django REST Framework, Node.js (Express.js) [cite: 22, 24] |
-| **پایگاه داده** | [cite_start]MongoDB, SQLite [cite: 38, 42] |
-| **ابزارها و DevOps** | [cite_start]Docker, Git, Linux, Network+ [cite: 16, 25, 26, 41] |
-| **فرانت‌اند (آشنایی)** | [cite_start]React, HTML5, CSS3, Bootstrap [cite: 27, 31, 32] |
+| **زبان‌های برنامه‌نویسی** |Python, JavaScript, TypeScript  |
+| **فریم‌ورک‌های وب** |Django, Django REST Framework, Node.js (Express.js)  |
+| **پایگاه داده** | MongoDB, SQLite  |
+| **ابزارها و DevOps** | [cite_start]Docker, Git, Linux, Network+ ] |
+| **فرانت‌اند (آشنایی)** |React, HTML5, CSS3, Bootstrap  |
 
 ---
 
