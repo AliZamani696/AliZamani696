@@ -35,10 +35,12 @@
 #### [bank system with SOLID & ACID](https://github.com/AliZamani696/bank_project)
 
 
+
 ---
-#### [Bitcoin price](https://github.com/AliZamani696/crypto_project)
 قیمت لحظه ای بیت‌کوین
----
+#### [Bitcoin price](https://github.com/AliZamani696/crypto_project)
+
+------
 
 ### 📊 آمار فعالیت‌های من در گیت‌هاب
 ![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliZamani696&show_icons=true&theme=radical)
@@ -46,4 +48,4 @@
 
 ---
 
-#
+
